@@ -18,6 +18,7 @@ Save the data to the file
 
 
 # CODE
+```
 #Importing libraries
 from sklearn.datasets import load_boston
 import pandas as pd
@@ -45,8 +46,10 @@ df.info()
 plt.figure(figsize=(10, 8))
 sns.distplot(df['PRICE'], rug=True)
 plt.show()
+```
 
 #FILTER METHODS
+```
 X=df.drop("PRICE",1)
 y=df["PRICE"]
 from sklearn.feature_selection import SelectKBest, chi2
@@ -90,6 +93,7 @@ print('Reduced number of features:', X_kbest.shape[1])
 #7.SelectPercentile method
 X_new = SelectPercentile(chi2, percentile=10).fit_transform(X, y_transformed)
 X_new.shape
+```
 
 
 # OUPUT
