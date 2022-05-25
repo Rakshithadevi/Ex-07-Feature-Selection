@@ -97,12 +97,3 @@ X_new.shape
 
 
 # OUPUT
-![image](https://user-images.githubusercontent.com/94165326/169946821-1a4f8855-76e1-4704-a3d5-5b9533551ea7.png)
-![image](https://user-images.githubusercontent.com/94165326/169947002-849d4dab-5bf2-4e0b-9fb8-1f4414a8adac.png)
-![image](https://user-images.githubusercontent.com/94165326/169947043-00f51088-9b15-43da-8608-cbc1cda314cb.png)
-![image](https://user-images.githubusercontent.com/94165326/169947180-40703226-d391-406e-89aa-fa4563f20405.png)
-![image](https://user-images.githubusercontent.com/94165326/169947212-fa7344e3-3f6a-46e3-980a-9cd9b6d52f55.png)
-![image](https://user-images.githubusercontent.com/94165326/169947242-b6615d8d-e7a0-4090-b20d-68f564b851ad.png)
-![image](https://user-images.githubusercontent.com/94165326/169947262-de4ce4d1-f1a5-49ca-8eb0-87894950e6fd.png)
-![image](https://user-images.githubusercontent.com/94165326/169947286-ee5d20e7-f7d1-4655-a092-60c4a4f6dc1f.png)
-
