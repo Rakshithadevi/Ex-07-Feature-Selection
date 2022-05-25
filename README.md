@@ -19,6 +19,9 @@ Save the data to the file
 
 # CODE
 ```
+NAME: RAKSHITHA DEVI J
+REG NO:212221230082
+```
 #Importing libraries
 from sklearn.datasets import load_boston
 import pandas as pd
